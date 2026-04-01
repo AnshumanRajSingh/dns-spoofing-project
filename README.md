@@ -87,7 +87,6 @@ Domain: example.com
 Expected IP: 93.184.216.34
 Received IP: 192.168.1.100
 ```
-
 ---
 
 ## ⚠ Disclaimer
